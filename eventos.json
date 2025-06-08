@@ -1,13 +1,24 @@
 [
   {
-    "nombre": "Parcial de Haskell",
-    "fecha": "2024-07-20",
-    "avisos": [3, 1]
-  },
-  {
     "nombre": "Test PdeP-Bot",
     "fecha": "2024-06-09",
     "avisos": [3, 1],
-    "servidor_id": "1380998074079641751"
-}
+    "servidor_id": "1380998074079641751",
+    "canal_id": "1380998075539263623",
+    "mensaje_extra": "Este es un mensaje de prueba"
+  },
+  {
+    "nombre": "Entrega TP3 - Individual",
+    "fecha": "2024-06-10",
+    "avisos": [3, 1],
+    "servidor_id": "1380998074079641751",
+    "canal_id": "1380998075539263623",
+  },
+  {
+    "nombre": "1er Recuperatorio Funcional",
+    "fecha": "2024-06-17",
+    "avisos": [3, 1],
+    "servidor_id": "1380998074079641751",
+    "canal_id": "1380998075539263623",
+  }
 ]
