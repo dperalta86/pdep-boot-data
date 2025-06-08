@@ -7,6 +7,13 @@
     "canal_id": "1380998075539263623"
   },
   {
+    "nombre": "Test nuevo evento",
+    "fecha": "2024-06-08",
+    "avisos": [3, 1],
+    "servidor_id": "1380998074079641751",
+    "canal_id": "1380998075539263623"
+  },
+  {
     "nombre": "Entrega TP3 - Individual",
     "fecha": "2024-06-10",
     "avisos": [3, 1],
