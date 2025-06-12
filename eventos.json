@@ -5,7 +5,7 @@
     "avisos": [1, 0],
     "servidor_id": "1380998074079641751",
     "canal_id": "1380998075539263623",
-    "mensaje_adicional":"Este es un test de evento. Temas varios a estudiar!\n\t- tema 1\n\t- tema 2\n\t- tema 3"
+    "mensaje_adicional":"\nEste es un test de evento(examen). Temas varios a estudiar!\n- tema 1\n- tema 2\n- tema 3"
   },
   {
     "nombre": "Test Trabajo Práctico",
@@ -13,7 +13,7 @@
     "avisos": [1, 0],
     "servidor_id": "1380998074079641751",
     "canal_id": "1380998075539263623",
-    "mensaje_adicional":"Mensaje adicional para Test de Trabajo Practico!"
+    "mensaje_adicional":"\nMensaje adicional para Test de Trabajo Practico!"
   },
     {
     "nombre": "Test Examen",
@@ -21,7 +21,7 @@
     "avisos": [1, 0],
     "servidor_id": "1380998074079641751",
     "canal_id": "1380998075539263620",
-    "mensaje_adicional":"Este es un test de evento. Temas varios a estudiar!\n\t- tema 1\n\t- tema 2\n\t- tema 3"
+    "mensaje_adicional":"\nEste es un test de evento(examen). Temas varios a estudiar!\n- tema 1\n- tema 2\n- tema 3"
   },
   {
     "nombre": "Test Trabajo Práctico",
@@ -29,7 +29,7 @@
     "avisos": [1, 0],
     "servidor_id": "1380998074079641751",
     "canal_id": "1380998075539263620",
-    "mensaje_adicional":"Mensaje adicional para Test de Trabajo Practico!"
+    "mensaje_adicional":"\nMensaje adicional para Test de Trabajo Practico!"
   },
   {
     "nombre": "Entrega TP3 - Individual",
