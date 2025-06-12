@@ -5,6 +5,7 @@
     "avisos": [1, 0],
     "servidor_id": "1380998074079641751",
     "canal_id": "1380998075539263623",
+    "tipo":"examen",
     "mensaje_adicional":"\nEste es un test de evento(examen). Temas varios a estudiar!\n- tema 1\n- tema 2\n- tema 3"
   },
   {
